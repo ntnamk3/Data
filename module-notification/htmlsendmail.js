@@ -493,7 +493,7 @@ a[x-apple-data-detectors='true'] {
       <td style="overflow-wrap:break-word;word-break:break-word;padding:5px 10px 20px;font-family:'Open Sans',sans-serif;" align="left">
         
   <div class="v-text-align" style="line-height: 140%; text-align: center; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%; text-align: center;"><span style="font-size: 14px; line-height: 19.6px; color: #ffffff;">NTKhang</span></p>
+    <p style="font-size: 14px; line-height: 140%; text-align: center;"><span style="font-size: 14px; line-height: 19.6px; color: #ffffff;">NemG</span></p>
   </div>
 
       </td>
